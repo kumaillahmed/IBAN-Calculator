@@ -1,11 +1,11 @@
 # IBAN-Calculator (MIPS Assembler Project)
 
-This repository contains the source code for an IBAN calculator implemented in MIPS assembler, as part of the Programming 2 course (SS 2023) at Saarland University (p. 1). The project involves converting bank account numbers (KNR) and bank codes (BLZ) to a German IBAN, or extracting these details from an existing IBAN (p. 1).
+This repository contains the source code for an IBAN calculator implemented in MIPS assembler. The project involves converting bank account numbers (KNR) and bank codes (BLZ) to a German IBAN, or extracting these details from an existing IBAN (p. 1).
 
 ## **Project Structure**
 Folder | Content
 src/	: Contains the primary MIPS assembler source files (.asm) (p. 1).
-tests/	: Contains public (pub) and student-written tests (p. 3).
+tests/	: Contains public (pub) and written tests (p. 3).
 testbox/	: A temporary folder used for debugging individual tests in MARS (p. 3).
 
 ## **Functionality & Tasks**
