@@ -36,3 +36,9 @@ Public tests are executed using a Python script located in the root directory (p
 
 ## **Run public and student tests**
 ./run_tests.py -d pub student
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+See the LICENSE file for details.
